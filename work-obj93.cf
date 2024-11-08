@@ -1,0 +1,31 @@
+v 4
+file . "./eightBitCounter/tb_eightBitCounter.vhd" "a01e5404209490be74ef2b6f0df3d9af1879b07a" "20241108223127.686":
+  entity tb_eightbitcounter at 1( 0) + 0 on 483;
+  architecture behavior of tb_eightbitcounter at 8( 124) + 0 on 484;
+file . "./syncSignalProcessing/syncSignalProcessing.vhd" "c6fb0a0b28ef23eff4ed9e227b9341d9eefc67bb" "20241108221353.011":
+  entity syncsignalprocessing at 1( 0) + 0 on 415;
+  architecture behavioral of syncsignalprocessing at 20( 505) + 0 on 416;
+file . "./signalProcessing/signalProcessing.vhd" "63a60874d2969adb5a8b69c99e96353ed0aab1a6" "20241108215545.295":
+  entity signalprocessing at 1( 0) + 0 on 319;
+  architecture behavioral of signalprocessing at 18( 439) + 0 on 320;
+file . "./saturationArithmatic/tb_saturationArithmatic.vhd" "ca48451a0f34f2e876d6af1a6eae8e2fc8a0ba47" "20241108211552.062":
+  entity tb_saturationarithmatic at 1( 0) + 0 on 131;
+  architecture behavior of tb_saturationarithmatic at 4( 64) + 0 on 132;
+file . "./shared/mux2to1.vhd" "c9eb7555a42203b6077a022850a12664c39a370e" "20241108221352.971":
+  entity mux2to1 at 1( 0) + 0 on 411;
+  architecture behavioral of mux2to1 at 16( 375) + 0 on 412;
+file . "./saturationArithmatic/saturationArithmatic.vhd" "154360a033bd0d7c66fba5afb77f64060075e304" "20241108211552.045":
+  entity saturationarithmatic at 1( 0) + 0 on 129;
+  architecture behavioral of saturationarithmatic at 17( 391) + 0 on 130;
+file . "./signalProcessing/tb_signalProcessing.vhd" "afc4e19bcfd0cdc185ab24f7407bc571cca8a76c" "20241108215545.313":
+  entity tb_signalprocessing at 1( 0) + 0 on 321;
+  architecture behavior of tb_signalprocessing at 8( 126) + 0 on 322;
+file . "./shared/syncRegister.vhd" "7f8fde765fd927aba5864ab240faf81984403b55" "20241108223127.648":
+  entity syncregister at 1( 0) + 0 on 479;
+  architecture behavioral of syncregister at 16( 310) + 0 on 480;
+file . "./syncSignalProcessing/tb_syncSignalProcessing.vhd" "4059cb1003f9e02ff5356fe6311ef6d881fbdfda" "20241108221353.028":
+  entity tb_syncsignalprocessing at 1( 0) + 0 on 417;
+  architecture behavior of tb_syncsignalprocessing at 8( 134) + 0 on 418;
+file . "./eightBitCounter/eightBitCounter.vhd" "69b7847e1d3cb31df216204b4da16ee20236023f" "20241108223127.669":
+  entity eightbitcounter at 1( 0) + 0 on 481;
+  architecture behavioral of eightbitcounter at 16( 298) + 0 on 482;
